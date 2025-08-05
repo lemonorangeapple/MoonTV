@@ -72,7 +72,7 @@
     "wwzy": {
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
-    },
+    }, 
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
